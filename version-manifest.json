@@ -4,12 +4,12 @@
         "Versions": [
             {
                 "Version": "1.0.0",
-                "DownloadUrl": "/game_patch/1_0_0"
+                "DownloadUrl": "/game_patch/1-0-0.zip"
             }
         ]
     },
     "Launcher": {
         "LatestVersion": "1.0.0",
-        "DownloadUrl": "/launcher_patch/"
+        "DownloadUrl": "/launcher_patch/latest_version.zip"
     }
 }
