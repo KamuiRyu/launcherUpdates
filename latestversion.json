@@ -1,0 +1,15 @@
+{
+    "Game": {
+        "LatestVersion": "1.0.3",
+        "Versions": [
+            {
+                "Version": "1.0.0",
+                "DownloadUrl": "/game_patch/1_0_0"
+            }
+        ]
+    },
+    "Launcher": {
+        "LatestVersion": "1.0.0",
+        "DownloadUrl": "/launcher_patch/"
+    }
+}
