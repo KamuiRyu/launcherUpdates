@@ -10,6 +10,17 @@
     },
     "Launcher": {
         "LatestVersion": "1.0.0",
-        "DownloadUrl": "/launcher_patch/latest_version.zip"
+        "Description": "
+        Esta nova atualização traz uma série de melhorias de desempenho, novas funcionalidades e correções de bugs importantes para o launcher, incluindo:
+            - Melhoria na velocidade de inicialização do launcher.
+            - Nova interface de usuário mais intuitiva e responsiva.
+            - Correções de erros reportados pela comunidade em várias funções.
+            - Suporte melhorado para a instalação e atualização de jogos.
+            - Otimizações no uso de rede para downloads mais rápidos e estáveis.
+            - Novas opções de personalização no launcher para melhor adaptação ao seu estilo.
+            - Introdução de novas ferramentas de diagnóstico para resolver problemas rapidamente.
+            - Diversas outras melhorias sob o capô que garantem uma experiência mais suave e confiável.
+        "
+        "DownloadUrl": "/launcher_patch/latest_version.zip", 
     }
 }
