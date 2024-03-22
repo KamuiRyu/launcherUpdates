@@ -10,7 +10,7 @@
     },
     "Launcher": {
         "LatestVersion": "1.0.0",
-        "Description": "Velocidade de Inicialização Aprimorada: Técnicas otimizadas para lançamento mais rápido.\nNova Interface de Usuário: Design intuitivo e responsivo com navegação simplificada.\nCorreções de Erros pela Comunidade: Ajustes baseados no feedback dos usuários.\nSuporte Melhorado para Jogos: Facilidades na instalação e atualização de títulos.\nOtimização de Rede: Melhorias para downloads mais rápidos e estáveis.\nOpções de Personalização do Launcher: Customização para uma experiência mais pessoal.\nFerramentas de Diagnóstico Integradas: Soluções rápidas para problemas técnicos.\nMelhorias Internas: Ajustes e otimizações não visíveis para desempenho superior.",
+        "Description": "- Velocidade de Inicialização Aprimorada: Técnicas otimizadas para lançamento mais rápido.\n - Nova Interface de Usuário: Design intuitivo e responsivo com navegação simplificada.\n - Correções de Erros pela Comunidade: Ajustes baseados no feedback dos usuários.\n - Suporte Melhorado para Jogos: Facilidades na instalação e atualização de títulos.\n - Otimização de Rede: Melhorias para downloads mais rápidos e estáveis.\n - Opções de Personalização do Launcher: Customização para uma experiência mais pessoal.\n - Ferramentas de Diagnóstico Integradas: Soluções rápidas para problemas técnicos.\nMelhorias Internas: Ajustes e otimizações não visíveis para desempenho superior.",
         "DownloadUrl": "/launcher_patch/latest_version.zip"
     }
 }
